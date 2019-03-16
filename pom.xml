@@ -21,7 +21,7 @@
     <groupId>de.codecentric</groupId>
     <artifactId>spring-boot-admin</artifactId>
     <version>${revision}</version>
-    <packaging>pom</packaging>
+    <packaging>war</packaging>
     <name>Spring Boot Admin</name>
     <description>Spring Boot Admin</description>
     <url>https://github.com/codecentric/spring-boot-admin/</url>

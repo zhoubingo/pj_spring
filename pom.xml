@@ -68,17 +68,6 @@
         <checkstyle.version>8.18</checkstyle.version>
         <nexus-staging-maven-plugin.version>1.6.8</nexus-staging-maven-plugin.version>
     </properties>
-    <modules>
-        <module>spring-boot-admin-server</module>
-        <module>spring-boot-admin-server-ui</module>
-        <module>spring-boot-admin-client</module>
-        <module>spring-boot-admin-dependencies</module>
-        <module>spring-boot-admin-docs</module>
-        <module>spring-boot-admin-build</module>
-        <module>spring-boot-admin-starter-server</module>
-        <module>spring-boot-admin-starter-client</module>
-        <module>spring-boot-admin-samples</module>
-    </modules>
     <organization>
         <name>codecentric AG</name>
         <url>http://www.codecentric.de</url>
@@ -89,11 +78,7 @@
             <url>http://www.apache.org/licenses/LICENSE-2.0</url>
         </license>
     </licenses>
-    <scm>
-        <connection>scm:git:git://github.com/codecentric/spring-boot-admin.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/codecentric/spring-boot-admin.git</developerConnection>
-        <url>https://github.com/codecentric/spring-boot-admin</url>
-    </scm>
+
     <developers>
         <developer>
             <name>Johannes Edmeier</name>
